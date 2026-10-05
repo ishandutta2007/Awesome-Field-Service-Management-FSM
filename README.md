@@ -55,9 +55,9 @@ The table below is sorted by **Company Size (Revenue / Market Valuation) in desc
 
 The open-source field service ecosystem provides self-hosted alternatives for work orders, CMMS, asset tracking, and contractor dispatching. 
 
-The table below is sorted by **GitHub Star Count in descending order**:
+The table below is sorted by **GitHub Stars_Count in descending order**:
 
-| Repository 📦 | Description & Key Features 📋 | Stars ⭐️ |
+| Repository 📦 | Description & Key Features 📋 | GitHub_Stars ⭐️ |
 | :--- | :--- | :---: |
 | **[Odoo Field Service](https://github.com/odoo/odoo)** 💜 | **Dedicated open-source FSM module within the Odoo ERP suite.** Integrates work orders directly with CRM, inventory, purchase orders, and invoicing. Includes mobile technician view and map dispatching. | [<img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo Stars"/>](https://github.com/odoo/odoo/stargazers) |
 | **[openMAINT](https://github.com/tecnoteca/openmaint)** 🏛️ | **Enterprise open-source CMMS & IWMS platform.** Built for property, facility, and building asset maintenance, work order scheduling, and preventive maintenance plans. | [<img src="https://img.shields.io/github/stars/tecnoteca/openmaint?style=social&color=white" alt="openMAINT Stars"/>](https://github.com/tecnoteca/openmaint/stargazers) |
@@ -95,7 +95,7 @@ If you find this curated list helpful for your research, team, or business, plea
 
 - This directory is **community-curated** for research and educational purposes.
 - Field service management software often handles sensitive location data, customer PII, and financial records. Ensure compliance with GDPR, CCPA, and relevant industry regulations.
-- Pricing details, features, and star counts are regularly updated but subject to change by respective vendors and maintainers.
+- Pricing details, features, and Stars_Counts are regularly updated but subject to change by respective vendors and maintainers.
 
 ---
 
