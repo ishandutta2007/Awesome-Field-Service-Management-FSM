@@ -48,6 +48,7 @@ The table below is sorted by **Company Size (Revenue / Market Valuation) in desc
 | **[Housecall Pro](https://www.housecallpro.com/)** 🏠 | All-in-one mobile dispatch, estimation, and billing app for service professionals. | **$79/month** (Basic Tier, up to 1 user). | **14-day full feature trial** (No perpetual free tier). | **~$1B+ Valuation** (Unicorn status) |
 | **[Jobber](https://getjobber.com/)** 🛠️ | Popular SMB scheduling, quoting, customer portal, and invoice platform for home trades. | **$39/month** (Core plan, 1 user billed annually). | **14-day free trial** (No credit card required). | **~$100M+ ARR** (Summit Partners Backed) |
 | **[Praxedo](https://www.praxedo.com/)** 🚚 | European cloud FSM solution for telecom, utility, and equipment maintenance fleets. | **$35/user/month** (Standard mobile technician plan). | **15-day free trial** (No perpetual free tier). | **~$50M ARR** (Leading European Provider) |
+| **[Genaya](https://genaya.com/)** 🤖 | AI operations platform with scheduling & dispatch, estimates, invoices, payments, and an AI phone receptionist that books jobs. | **$99/month** (Individual plan, 1 user). | **14-day free trial** (Card required, no free tier). | **Early-stage, private** |
 
 ---
 
